@@ -3,7 +3,7 @@ Welcome to the EnderIO wiki!
 ### Bugs
 If you wish to raise a bug, please raise an issue in the [issue tracker](https://github.com/CrazyPants/EnderIO/issues).
 
-Make sure you mark it as a bug and include as much information as you can, including the version of the EnderIO and MC. The more info the better, if I can't reproduce it, I probably can't fix it. Screen hots welcome.
+Make sure you mark it as a bug and include as much information as you can, including the version of the EnderIO and MC. The more info the better, if I can't reproduce it, I probably can't fix it. Screen shots welcome.
 
 ### Features
 To view the features currently on the todo list, and those being considered, go [here](https://github.com/CrazyPants/EnderIO/wiki/Planned-Features).
