@@ -19,3 +19,9 @@ If you wish to request a new feature please do the following:
 
 4. Smile, you know you want to.
 
+### Making me better
+If you wish to improve on this wiki in any way, please do. Make pages, fix my awesome typing/spelling, whatever. Just please leave the instructions for reporting bugs and requesting features at the top of the home page.
+
+
+Enjoy,
+CP
