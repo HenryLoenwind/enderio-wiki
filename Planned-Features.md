@@ -9,9 +9,8 @@
 * Power Conduits: input / output control on a per connection basis (on/off plus amount)
 
 ## Features being Considered
-* Some kind of 'macerator like' machine
-* upgraded solar panels
-* multiple conduits of the same type in a block
+* Upgraded solar panels
+* Multiple conduits of the same type in a block
 * Univ. Electricity conduits
 * IC power conduits
-* power conversion between the above and MCJ
+* Power conversion between the above and MCJ
