@@ -1,8 +1,8 @@
-* Power and redstone 'teleportation', along the lines of tesseracts
+DONE. [Dimensional Transciever](http://wiki.enderio.com/Dimensional_Transceiver) * Power and redstone 'teleportation', along the lines of tesseracts
 
-* Item conduits
+DONE. [Item Conduit](http://wiki.enderio.com/Item_Conduit) * Item conduits
 
-* Network monitor (info display of how much power, liquid etc is going through the network)
+DONE. [Power Monitor](http://wiki.enderio.com/Power_Monitor) * Network monitor (info display of how much power, liquid etc is going through the network)
 
 * Items of secret sauce
 
@@ -10,7 +10,7 @@
 
 ## Features being Considered
 
-* Upgraded solar panels
+DONE. Implemented in 1.7 * Upgraded solar panels
 
 * Multiple conduits of the same type in a block
 
