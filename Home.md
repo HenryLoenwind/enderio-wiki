@@ -1,4 +1,4 @@
-Welcome to the EnderIO Git-Wiki!
+Welcome to the EnderIO Wiki here on GitHub!
 
 ### The Actual Wiki
 To view the official wiki, go [here.] (http://wiki.enderio.com)
@@ -6,7 +6,7 @@ To view the official wiki, go [here.] (http://wiki.enderio.com)
 ### Bugs
 If you wish to raise a bug, please raise an issue in the [issue tracker](https://github.com/CrazyPants/EnderIO/issues).
 
-Include as much information as you can, including the version of EnderIO and Minecraft. The more info the better, if I can't reproduce it, I probably can't fix it. Screen shots can be very helpful.
+Include as much information as you can, including the version of EnderIO and Minecraft. The more info the better, if I can't reproduce it, I probably can't fix it. Screenshots can/would be very helpful.
 
 ### Features
 To view the features currently on the to-do list, and those being considered, go [here.](https://github.com/CrazyPants/EnderIO/wiki/Planned-Features).
