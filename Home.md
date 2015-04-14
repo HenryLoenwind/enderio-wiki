@@ -14,13 +14,11 @@ To view the features currently on the to-do list, and those being considered, go
 ### Feature Requests
 If you wish to request a new feature please do the following:
 
-1. Make sure it's not already on the planned features page.
+1. Go to the [Issue Tracker](https://github.com/CrazyPants/EnderIO/issues) and check if somebody hasn't already requested it.
 
-2. Go to the [Issue Tracker](https://github.com/CrazyPants/EnderIO/issues) and check if somebody hasn't already requested it.
+2. If you have done step 1 and 2 and it hasn't already been covered, raise a new issue.
 
-3. If you have done step 1 and 2 and it hasn't already been covered, raise a new issue.
-
-4. Smile, you know you want to.
+3. Smile, you know you want to.
 
 ### Making me better
 If you would like, you can contribute to the wiki. Fix my awesome typing/spelling, whatever.
