@@ -16,7 +16,7 @@ If you wish to request a new feature please do the following:
 
 1. Go to the [Issue Tracker](https://github.com/CrazyPants/EnderIO/issues) and check if somebody hasn't already requested it.
 
-2. If you have done step 1 and 2 and it hasn't already been covered, raise a new issue.
+2. If you have done step 1 and it hasn't already been requested, raise a new issue.
 
 3. Smile, you know you want to.
 
