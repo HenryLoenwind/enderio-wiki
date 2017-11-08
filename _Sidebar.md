@@ -1,8 +1,9 @@
 ## Conduits
 [[Conduits|List of Conduits]]  
 [[Capacitor Banks]]  
-[[RF Gauge]]  
+[[Facades|Conduit Facades]]  
 [[Power Monitors]]  
+[[RF Gauge]]
 ## Machines
 [[Powered|List of Powered Machines]]  
 [[Generators|List of Generators]]  
