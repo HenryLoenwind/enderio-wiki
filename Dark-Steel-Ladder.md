@@ -1,0 +1,1 @@
+![](http://loenwind.info/eio/Dark_Steel_Ladder.png)

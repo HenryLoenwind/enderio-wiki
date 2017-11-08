@@ -1,0 +1,1 @@
+![](http://loenwind.info/eio/Stirling_Generator.png)

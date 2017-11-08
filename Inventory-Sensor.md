@@ -1,0 +1,1 @@
+![](http://loenwind.info/eio/Inventory_Sensor.png)

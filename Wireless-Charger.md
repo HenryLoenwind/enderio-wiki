@@ -1,0 +1,1 @@
+![](http://loenwind.info/eio/Wireless_Charger.png)

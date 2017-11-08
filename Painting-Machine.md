@@ -1,0 +1,1 @@
+![](http://loenwind.info/eio/Painting_Machine.png)

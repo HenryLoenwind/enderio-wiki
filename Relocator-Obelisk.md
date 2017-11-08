@@ -1,0 +1,1 @@
+![](http://loenwind.info/eio/Relocator_Obelisk.png)

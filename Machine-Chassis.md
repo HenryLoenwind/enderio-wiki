@@ -1,0 +1,1 @@
+![](http://loenwind.info/eio/Machine_Chassis.png)
