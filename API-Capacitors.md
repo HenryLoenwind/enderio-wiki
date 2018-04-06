@@ -20,6 +20,10 @@ NBT-base capacitors work the same way as programmatic ones, just that there is n
 
 A LEVEL definition is required for all capacitors to be valid. This is the ultimate fallback value.
 
+### DURABILITY
+
+If an item that has durability has a NBT capacitor applied to it, then it will damage the item for 1 point each time the machine it is in completes a task.
+
 ### TYPE
 
 ```
