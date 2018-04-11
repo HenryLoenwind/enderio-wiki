@@ -12,6 +12,8 @@ Implement `crazypants.enderio.base.capacitor.ICapacitorDataItem` on your item. I
 
 NBT-base capacitors work the same way as programmatic ones, just that there is no `getCapacitorData()` on the item. Instead the `ICapacitorData` is created from the NBT tags of the ItemStack. This means that the NBT data has to contain a complete mapping of all possible CapacitorKeys to a capacitor level. To achieve that, the NBT data can contain level data in 4 different ways: LEVEL, TYPE, OWNER+TYPE, NAME. When looking up a value, Ender IO will try to find a value in reverse order.
 
+Note: The examples on this page are incomplete NBT snippets and need to be combined according to what's written in the descriptions. TL;DR: Copy&Paste without reading won't work.
+
 ### LEVEL
 
 ```
