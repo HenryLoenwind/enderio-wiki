@@ -16,7 +16,7 @@ Upgrade with [[capacitors]] to increase speed and energy storage.  Speed is dire
 
 The slot on the right side of the GUI is for Grinding Balls.  Grinding balls provide bonus outputs and adjust power usage.  The Grinding Ball is consumed when it is first used by an appropriate recipe and must be fully used up before it can be replaced.
 
-| Grinding Ball         | Main Output | Bonus Output | Power use | Durability (µI) |
+| Grinding Ball         | Main Output | Bonus Output | Power Use | Durability (µI) |
 | :-------------------- | ----------: | -----------: | --------: | --------------: |
 | Flint                 |        120% |         125% |       85% |          24,000 |
 | Dark Steel Ball       |        150% |         200% |       70% |         125,000 |
@@ -50,4 +50,4 @@ The Bonus Output increases chance based outputs by 200%, maxing at 100%.  The fi
 
 The Main Output bonus of 150% is applied to all items.  There is a 50% chance of doubling the entire output.
 
-The end result will be an average of 3 Diamonds per ore from the primary set, and 0.75 Diamonds per ore from the secondary Diamond, resulting in an average of 3.75 Diamonds per ore.  For reference, Fortune III averages out to 2.20 Diamonds per ore, and a SAG Mill with no Grinding Ball would produce an average of 2.25 Diamonds per ore.
+The end result will be an average of 3 Diamonds per ore from the primary set, and 0.75 Diamonds per ore from the auxiliary Diamond, resulting in an average of 3.75 Diamonds per ore.  For reference, Fortune III averages out to 2.20 Diamonds per ore, and a SAG Mill with no Grinding Ball would produce an average of 2.25 Diamonds per ore.
