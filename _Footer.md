@@ -1,0 +1,1 @@
+This wiki is being rewritten from scratch, and mechanics may change during the mod's development.  Currently, the information on this wiki is largely incomplete and may be out of date.  If you want to make this wiki better, here are directions on how to [[Contribute to the wiki | Contributing to the Wiki]].

@@ -19,15 +19,15 @@ The slot on the right side of the GUI is for Grinding Balls.  Grinding balls pro
 | Grinding Ball         | Main Output | Bonus Output | Power Use | Durability (µI) |
 | :-------------------- | ----------: | -----------: | --------: | --------------: |
 | Flint                 |        120% |         125% |       85% |          24,000 |
-| Dark Steel Ball       |        150% |         200% |       70% |         125,000 |
-| Electrical Steel Ball |        120% |         100% |       35% |          40,000 |
-| Energetic Alloy Ball  |        160% |         110% |      110% |          60,000 |
+| Dark Steel Ball       |        135% |         200% |       70% |         125,000 |
+| Electrical Steel Ball |        120% |         165% |       80% |          40,000 |
+| Energetic Alloy Ball  |        160% |         110% |      110% |          80,000 |
 | Vibrant Alloy Ball    |        175% |         135% |      135% |          80,000 |
-| Redstone Alloy Ball   |        100% |         100% |       60% |          30,000 |
-| Conductive Iron Ball  |        100% |         100% |       50% |          40,000 |
-| Pulsating Iron Ball   |        100% |         200% |      100% |         100,000 |
-| Soularium Ball        |        120% |         250% |       85% |          80,000 |
-| End Steel Ball        |        150% |         250% |       60% |          65,000 |
+| Redstone Alloy Ball   |        100% |         100% |       35% |          30,000 |
+| Conductive Iron Ball  |        135% |         100% |      100% |          40,000 |
+| Pulsating Iron Ball   |        100% |         185% |      100% |         100,000 |
+| Soularium Ball        |        120% |         215% |       90% |          80,000 |
+| End Steel Ball        |        140% |         240% |       70% |          75,000 |
 
 
 Grinding Balls are only used in certain recipes determined by the recipe's bonus type.  If the recipe's bonus type is set to none (like Iron Ingot -> Iron Powder) then the Grinding Ball is not used (no increased output chance, no power reduction, and no durability used by the Grinding Ball).
@@ -40,6 +40,16 @@ Grinding Balls are only used in certain recipes determined by the recipe's bonus
 
 * Durability: Specifies how long a Grinding Ball will last.  Measured in µI used by the SAG Mill.  Not visible in the game.
 
+### Add-on Grinding Balls
+
+The following Grinding Balls are added by Ender IO, but are dependent on materials from other mods.
+
+| **Thermal Expansion** | **Main Output** | **Bonus Output** | **Power Use** | **Durability (µI)** |
+| :-------------------- | --------------: | ---------------: | ------------: | ------------------: |
+| Signalum              |            120% |             165% |           35% |             100,000 |
+| Enderium              |            165% |             145% |          125% |             120,000 |
+| Lumium                |            110% |             215% |           90% |             100,000 |
+
 ## Grinding Ball Example
 
 The SAG Mill will process 1 Diamond Ore at the cost of 3,600 µI.  It will produce 2 Diamonds, has a 25% chance of producing an auxiliary Diamond, a 15% chance of producing Cobblestone, and a 5% chance of producing Coal Powder.
@@ -48,6 +58,6 @@ If you use a Dark Steel Ball, then the recipe only needs 70% of the base power, 
 
 The Bonus Output increases chance based outputs by 200%, maxing at 100%.  The first two Diamonds don't benefit from the Bonus Output as they are already at 100%.  The auxiliary Diamond now has a 50% chance of being created.  Cobblestone is increased to a 30% chance, and Coal Powder is increased to a 10% chance.
 
-The Main Output bonus of 150% is applied to all items.  There is a 50% chance of doubling the entire output.
+The Main Output bonus of 135% is applied to all items.  There is a 35% chance of doubling the entire output.
 
-The end result will be an average of 3 Diamonds per ore from the primary set, and 0.75 Diamonds per ore from the auxiliary Diamond, resulting in an average of 3.75 Diamonds per ore.  For reference, Fortune III averages out to 2.20 Diamonds per ore, and a SAG Mill with no Grinding Ball would produce an average of 2.25 Diamonds per ore.
+The end result will be an average of 2.7 Diamonds per ore from the primary set, and 0.675 Diamonds per ore from the auxiliary Diamond, resulting in an average of 3.375 Diamonds per ore.  For reference, Fortune III averages out to 2.20 Diamonds per ore, and a SAG Mill with no Grinding Ball would produce an average of 2.25 Diamonds per ore.
