@@ -219,4 +219,4 @@ In addition to a TYPE, capacitor keys are also specific to a machine.
 
 And the most specific way is to target a specific CapacitorKey by its name.
 
-Note: This list only contains keys for enderio-machines. Keys for other sub-modules TBD.
+Note: This list only contains keys for enderio-machines. Please note that these are the old names, the new ones you can look up yourself in the xml recipe files (e.g. capacitor_machines.xml).
