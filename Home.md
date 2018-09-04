@@ -1,7 +1,7 @@
 Welcome to the EnderIO Wiki here on GitHub!
 
 ### The Wiki
-This is now the official wiki, the old one was switched off because it was extremely outdated,
+This is now the official wiki, the old one was switched off because it was extremely outdated.
 
 ### Bugs
 If you wish to report a bug, please raise an issue in the [issue tracker](https://github.com/CrazyPants/EnderIO/issues).
@@ -19,6 +19,10 @@ If you wish to request a new feature please do the following:
 
 ### Making me better
 If you would like, you can contribute to the wiki by forking [this](https://github.com/HenryLoenwind/enderio-wiki). Fix my awesome typing/spelling, whatever.
+
+### Advanced
+
+Are you a server administrator, modpack maker or modder? Have a look at [[Non Gameplay Information]].
 
 Enjoy,
 CP & team
