@@ -1,7 +1,7 @@
 Inventory Charger
 ===
 
-Requires: Energy Crystal
+Requires: [[Crystals]]
 
 ## Simple Inventory Charger
 
