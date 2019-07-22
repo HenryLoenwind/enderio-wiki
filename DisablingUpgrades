@@ -1,0 +1,30 @@
+Disabling upgrades can be done via editing the `enderio.cfg` file in the `config/enderio` folder.
+
+For quick editing, do the following:
+
+- open the file with an editor
+- press CTRL+F (or the key combo whcih enables you to do fulltext search)
+- enter "upgrades"
+- notice the line `S:disabled=`
+- add the upgrades you wish to disable behind the `=`, for instance: `endrio:tnt,enderio:speedBoost`. You can enter _any_ upgrade here, both armor and tool upgrades are accepted.
+- save the file
+
+
+ID table:
+
+| Name           | ID                     | 
+| -------------- | ---------------------- | 
+| direct         | enderio:direct         | 
+| travel         | enderio:travel         | 
+| storage        | enderio:inv            | 
+| spoon          | enderio:spoon          |
+| speed          | enderio:speedBoost     |
+| sound detector | enderio:soundDetector  |
+| padding        | enderio:padding        |
+| night vision   | enderio:nightVision    |
+| jump height    | enderio:jumpBoost      |
+| hoe            | enderio:hoe            |
+| glider         | enderio:glide          |
+| swim           | enderio:swim           |
+| explosive      | enderio:tnt            |
+| elytra         | enderio:lytra          |
