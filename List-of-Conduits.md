@@ -1,4 +1,4 @@
 * [[Energy Conduits]]
 * [[Fluid Conduits]]
-* [[Insulated Redstone Conduit]]
+* [[Redstone Conduit]]
 * [[Item Conduit]]
