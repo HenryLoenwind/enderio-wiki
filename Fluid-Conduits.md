@@ -46,12 +46,13 @@ It has Max IO Speed of 800 mB/t.
 It also has extra options in its GUI that the other types don't: Channels(Insertion and Extraction), Priority(Insertion), Filter Upgrades(Insertion and Extraction), Round Robin(Extraction), Self Feed(Extraction), Function Upgrades(Extraction).
 
 ## The GUI of all Fluid conduits is split between their 2 modes: *insert* and *extract*. These modes can be toggled independently.
+![Ender Fluid Conduit GUI](https://github.com/paul-soporan/enderio-wiki/blob/master/images/GUIs/Ender-Fluid-Conduit-GUI.png)
 
 ### Insert
 
 Insertion can be configured in these ways:
 
-#### Channels (Ender Fluid Conduits only)
+#### Channels (*1*) (Ender Fluid Conduits only)
 
 Channels are used to split a single fluid conduit network into multiple networks that act independently.
 
@@ -59,13 +60,13 @@ There are 16 different channels. Each of them has a different color, correspondi
 
 Green, Brown, Blue, Purple, Cyan, Light Gray, Gray, Pink, Lime, Yellow, Light Blue, Magenta, Orange, White, Black
 
-#### Priority (Ender Fluid Conduits only)
+#### Priority (*2*) (Ender Fluid Conduits only)
 
 The insertion uses the priority system. The priority is represented by an integer.
 
 *The fluids will be inserted into the tanks with the highest priority first.*
 
-#### Filter Upgrades (Ender Fluid Conduits only)
+#### Filter Upgrades (*3*) (Ender Fluid Conduits only)
 
 Insertion can be filtered. There is a single slot for filters.
 
@@ -73,7 +74,7 @@ Insertion can be filtered. There is a single slot for filters.
 
 Extraction can be configured in these ways:
 
-#### Channels (Ender Fluid Conduits only)
+#### Channels (*4*) (Ender Fluid Conduits only)
 
 Channels are used to split a single item conduit network into multiple networks that act independently.
 
@@ -81,17 +82,17 @@ There are 16 different channels. Each of them has a different color, correspondi
 
 Green, Brown, Blue, Purple, Cyan, Light Gray, Gray, Pink, Lime, Yellow, Light Blue, Magenta, Orange, White, Black
 
-#### Round Robin (Ender Fluid Conduits only)
+#### Round Robin (*5*) (Ender Fluid Conduits only)
 
 If Round Robin is disabled, fluids will be inserted normally, Nearest-First, into the tanks with the highest priority.
 
 If Round Robin is enabled, fluids will be split equally between the tanks with the highest priority.
 
-#### Self Feed (Ender Fluid Conduits only)
+#### Self Feed (*6*) (Ender Fluid Conduits only)
 
 If Self Feed is enabled, the conduits will be able to insert fluids into the tank from which they extracted them.
 
-#### Redstone Mode(All Fluid Conduits)
+#### Redstone Mode (*7*) (All Fluid Conduits)
 
 Controls when the extraction should happen in regards to *Redstone Signal*. It can be set to these modes:
 
@@ -111,17 +112,17 @@ If the redstone signal is transmitted by a redstone conduit, the Signal Color ca
 ##### Never active
 Extraction is never active, ignoring redstone signal.
 
-#### Filter Upgrades (Ender Fluid Conduits only)
+#### Filter Upgrades (*8*) (Ender Fluid Conduits only)
 
 Extraction can be filtered. There is a single slot for filters.
 
-#### Function Upgrades (Ender Fluid Conduits only)
+#### Function Upgrades (*9*) (Ender Fluid Conduits only)
 
 The Speed of the Extraction can be modified using *Speed Upgrades* and *Speed Downgrades*.
 
 By default, ender fluid conduits have an extraction speed of 200 mB/t, which represents 100%.
 
-There's an info button in the GUI that shows the *Effective Speed* while Hovering.
+There's an info button (*10*) in the GUI that shows the *Effective Speed* while Hovering.
 
 ##### Speed Upgrades
 ![](http://loenwind.info/eio/Item_Conduit_Speed_Upgrade.png)
