@@ -26,6 +26,7 @@ This is the third tier.
 It has a Max Output of 20,480 µI/t.
 
 ## The GUI of all Energy conduits is split between their 2 modes: *insert* and *extract*. These modes can be toggled independently.
+![Energy Conduit GUI](https://github.com/paul-soporan/enderio-wiki/blob/master/images/GUIs/Energy-Conduit-GUI.png)
 
 ### Insert
 
@@ -33,7 +34,7 @@ Insertion has no additional settings.
 
 ### Extract
 
-#### Redstone Mode
+#### Redstone Mode (*1*)
 
 Controls when the extraction should happen in regards to *Redstone Signal*. It can be set to these modes:
 
