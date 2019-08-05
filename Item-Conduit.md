@@ -1,7 +1,7 @@
 # Item Conduit
 ![](http://loenwind.info/eio/Item_Conduit.png)
 
-The Item Conduit transfers items between blocks.
+The Item Conduit transfers items between containers.
 
 The GUI is split between the 2 modes of an Item Conduit: *insert* and *extract*. They can be toggled independently.
 
@@ -59,8 +59,12 @@ Extraction is always active, ignoring redstone signal.
 #### Active with signal
 Extraction only happens if the conduit receives a redstone signal(power 1-15).
 
+If the redstone signal is transmitted by a redstone conduit, the Signal Color can be set.
+
 #### Active without signal
 Extraction only happens if the conduit doesn't receive a redstone signal(power 0).
+
+If the redstone signal is transmitted by a redstone conduit, the Signal Color can be set.
 
 #### Never active
 Extraction is never active, ignoring redstone signal.
