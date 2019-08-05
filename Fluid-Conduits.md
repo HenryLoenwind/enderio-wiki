@@ -15,7 +15,7 @@ It has Max IO: Speed of 200 mB/t.
 
 It has configurable Redstone Mode.
 
-**It's Fluid Flow Respects Gravity!**
+**Its Fluid Flow Respects Gravity!**
 
 *Its Flow Rate is dependent on Fluid Viscosity!*
 
