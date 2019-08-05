@@ -17,7 +17,7 @@ It has configurable Redstone Mode.
 
 **It's Fluid Flow Respects Gravity!**
 
-*It's Flow Rate is dependent on Fluid Viscosity!*
+*Its Flow Rate is dependent on Fluid Viscosity!*
 
 ### Pressurized Fluid Conduit
 ![](http://loenwind.info/eio/Pressurized_Fluid_Conduit.png)
