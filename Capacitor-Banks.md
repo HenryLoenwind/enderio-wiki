@@ -2,7 +2,7 @@
 Capacitor Banks store power.  Capacitor Banks of the same tier can connect into a free-form multiblock.  Each capacitor increases the total storage capacity, and the maximum transfer rate.
 
 
-![Capacitor Bank GUI](https://github.com/paul-soporan/enderio-wiki/blob/master/images/GUIs/Capacitor-Bank-GUI.png)
+![Capacitor Bank GUI](images/GUIs/Capacitor-Bank-GUI.png)
 
 The Capacitor Bank GUI can set the Max Input (*2*) and Max Output (*3*), can react to a redstone signal to enable/disable energy input (*4*) and output (*5*) separately, and it can set the IO (*6*).  By mousing over the power bar (*1*) you can see precise statistics relating to current power, maximum power, and current net power gain or loss.
 
