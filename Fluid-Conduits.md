@@ -7,7 +7,7 @@ The Fluid Conduits transfer fluids between tanks.
 ### Fluid Conduit
 ![](http://loenwind.info/eio/Fluid_Conduit.png)
 
-This is the basic tier.
+This is the first tier.
 
 It has a Max Extract Speed of 50 mB/t.
 
@@ -32,6 +32,8 @@ It has configurable Redstone Mode.
 
 ### Ender Fluid Conduit
 ![](http://loenwind.info/eio/Ender_Fluid_Conduit.png)
+
+This is the third tier.
 
 It has a Max Extract Speed of 200 mB/t.
 
@@ -99,8 +101,12 @@ Extraction is always active, ignoring redstone signal.
 ##### Active with signal
 Extraction only happens if the conduit receives a redstone signal(power 1-15).
 
+If the redstone signal is transmitted by a redstone conduit, the Signal Color can be set.
+
 ##### Active without signal
 Extraction only happens if the conduit doesn't receive a redstone signal(power 0).
+
+If the redstone signal is transmitted by a redstone conduit, the Signal Color can be set.
 
 ##### Never active
 Extraction is never active, ignoring redstone signal.
