@@ -1,7 +1,7 @@
 # Capacitor Banks
 Capacitor Banks store power.  Capacitor Banks of the same tier can connect into a free-form multiblock.  Each capacitor increases the total storage capacity, and the maximum transfer rate.
 
-The Capacitor Bank GUI can set the Max Input and Max Output, can react to a redstone signal to enable/disable energy input and output separately, and it can set the IO.  By mousing over the power bar you can see precise statistics relating to current power, maximum power, and current net power gain or loss.
+The Capacitor Bank GUI can set the Max Input (*2*) and Max Output (*3*), can react to a redstone signal to enable/disable energy input (*4*) and output (*5*) separately, and it can set the IO (*6*).  By mousing over the power bar (*1*) you can see precise statistics relating to current power, maximum power, and current net power gain or loss.
 
 **The functionality that made its GUI have slots to charge µI items and allow quick access to the Armor, off-hand, and Baubles slots was removed in 1.12! Use the Simple Wired Charger and the Wired Charger for that!**
 
