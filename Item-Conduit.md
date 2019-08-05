@@ -49,7 +49,7 @@ If Round Robin is enabled, items will be split equally between the containers wi
 
 ### Self Feed (*6*)
 
-Normally, Ender Fluid Conduits will not try to put fluids directly back into the block or machine they extracted them from. Switching on "Self Feed" will enable them to do so.
+Normally, Item Conduits will not try to put fluids directly back into the block or machine they extracted them from. Switching on "Self Feed" will enable them to do so.
 
 ### Redstone Mode (*7*)
 
