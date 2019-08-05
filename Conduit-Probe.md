@@ -1,4 +1,4 @@
-### Conduit Probe
+# Conduit Probe
 ![](http://loenwind.info/eio/Conduit_Probe.png)
 
 The Conduit Probe has 2 modes:
