@@ -90,7 +90,7 @@ If Round Robin is enabled, fluids will be split equally between the tanks with t
 
 #### Self Feed (*6*) (Ender Fluid Conduits only)
 
-If Self Feed is enabled, the conduits will be able to insert fluids into the tank from which they extracted them.
+Normally, Ender Fluid Conduits will not try to put fluids directly back into the block or machine they extracted them from. Switching on "Self Feed" will enable them to do so.
 
 #### Redstone Mode (*7*) (All Fluid Conduits)
 
