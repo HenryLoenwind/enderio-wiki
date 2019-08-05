@@ -13,7 +13,7 @@
 [[Capacitor Banks]]  
 [[Facades|Conduit Facades]]  
 [[Power Monitors]]  
-[[RF Gauge]]  
+[[Energy Gauge]]  
 ### Inventory Panel
 [[Inventory Panel]]  
 [[Inventory Panel Remotes]]  
