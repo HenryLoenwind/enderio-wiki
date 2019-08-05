@@ -5,11 +5,13 @@ The Item Conduit transfers items between containers.
 
 The GUI is split between the 2 modes of an Item Conduit: *insert* and *extract*. They can be toggled independently.
 
+![Item Conduit GUI](https://github.com/paul-soporan/enderio-wiki/blob/master/images/GUIs/Item-Conduit-GUI.png)
+
 ## Insert
 
 Insertion can be configured in these ways:
 
-### Channels
+### Channels (*1*)
 
 Channels are used to split a single item conduit network into multiple networks that act independently.
 
@@ -17,13 +19,13 @@ There are 16 different channels. Each of them has a different color, correspondi
 
 Green, Brown, Blue, Purple, Cyan, Light Gray, Gray, Pink, Lime, Yellow, Light Blue, Magenta, Orange, White, Black
 
-### Priority
+### Priority (*2*)
 
 The insertion uses the priority system. The priority is represented by an integer.
 
 *The items will be inserted into the containers with the highest priority first.*
 
-### Filter Upgrades
+### Filter Upgrades (*3*)
 
 Insertion can be filtered. There is a single slot for filters.
 
@@ -31,7 +33,7 @@ Insertion can be filtered. There is a single slot for filters.
 
 Extraction can be configured in these ways:
 
-### Channels
+### Channels (*4*)
 
 Channels are used to split a single item conduit network into multiple networks that act independently.
 
@@ -39,17 +41,17 @@ There are 16 different channels. Each of them has a different color, correspondi
 
 Green, Brown, Blue, Purple, Cyan, Light Gray, Gray, Pink, Lime, Yellow, Light Blue, Magenta, Orange, White, Black
 
-### Round Robin
+### Round Robin (*5*)
 
 If Round Robin is disabled, items will be inserted normally, Nearest-First, into the containers with the highest priority.
 
 If Round Robin is enabled, items will be split equally between the containers with the highest priority.
 
-### Self Feed
+### Self Feed (*6*)
 
 If Self Feed is enabled, the conduits will be able to insert items into the container from which they extracted them.
 
-### Redstone Mode
+### Redstone Mode (*7*)
 
 Controls when the extraction should happen in regards to *Redstone Signal*. It can be set to these modes:
 
@@ -69,17 +71,17 @@ If the redstone signal is transmitted by a redstone conduit, the Signal Color ca
 #### Never active
 Extraction is never active, ignoring redstone signal.
 
-### Filter Upgrades
+### Filter Upgrades (*8*)
 
 Extraction can be filtered. There is a single slot for filters.
 
-### Function Upgrades
+### Function Upgrades (*9*)
 
 The Speed of the Extraction can be modified using *Speed Upgrades* and *Speed Downgrades*.
 
 By default, item conduits extract 4 items per operation.
 
-There's an info button in the GUI that shows the *Effective Speed* while Hovering.
+There's an info button (*10*) in the GUI that shows the *Effective Speed* while Hovering.
 
 #### Speed Upgrades
 ![](http://loenwind.info/eio/Item_Conduit_Speed_Upgrade.png)
