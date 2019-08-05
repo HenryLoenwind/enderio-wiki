@@ -5,7 +5,7 @@ The Item Conduit transfers items between containers.
 
 The GUI is split between the 2 modes of an Item Conduit: *insert* and *extract*. They can be toggled independently.
 
-![Item Conduit GUI](https://github.com/paul-soporan/enderio-wiki/blob/master/images/GUIs/Item-Conduit-GUI.png)
+![Item Conduit GUI](images/GUIs/Item-Conduit-GUI.png)
 
 ## Insert
 
