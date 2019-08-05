@@ -1,1 +1,0 @@
-![](http://loenwind.info/eio/Insulated_Redstone_Conduit.png)
