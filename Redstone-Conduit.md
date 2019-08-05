@@ -4,7 +4,7 @@
 The Redstone Conduit transfers Redstone Signal between blocks.
 
 The GUI is split between the 2 modes of a Redstone Conduit: *input* and *output*. They can be toggled independently.
-![Redstone Conduit GUI](https://github.com/paul-soporan/enderio-wiki/blob/master/images/GUIs/Redstone-Conduit-GUI.png)
+![Redstone Conduit GUI](images/GUIs/Redstone-Conduit-GUI.png)
 
 ## Input
 
@@ -43,7 +43,7 @@ If Strong Signal is Disabled, the conduit will be powered, and it will activate 
 If Strong Signal is Enabled, the conduit will power and activate the adjacent blocks, which themselves will activate any adjacent blocks to them.
 
 The best way to visualize this is with a screenshot:
-![Strong Signal](https://github.com/paul-soporan/enderio-wiki/blob/master/images/Examples/Strong-Signal.png)
+![Strong Signal](images/Examples/Strong-Signal.png)
 
 On the left, Strong Signal is Off, so the iron block is activated but not powered, so the redstone lamp doesn't activate.
 
