@@ -43,7 +43,7 @@ It has Max IO Speed of 800 mB/t.
 
 It also has extra options in its GUI that the other types don't: Channels(Insertion and Extraction), Priority(Insertion), Filter Upgrades(Insertion and Extraction), Round Robin(Extraction), Self Feed(Extraction), Function Upgrades(Extraction).
 
-## The GUI of all Fluid conduits is split between their 2 modes: *insert* and *extract*. They can be toggled independently.
+## The GUI of all Fluid conduits is split between their 2 modes: *insert* and *extract*. These modes can be toggled independently.
 
 ### Insert
 
