@@ -76,7 +76,7 @@ Extraction can be configured in these ways:
 
 #### Channels (*4*) (Ender Fluid Conduits only)
 
-Channels are used to split a single item conduit network into multiple networks that act independently.
+Channels are used to split a single fluid conduit network into multiple networks that act independently.
 
 There are 16 different channels. Each of them has a different color, corresponding to the 16 minecraft colors: 
 
