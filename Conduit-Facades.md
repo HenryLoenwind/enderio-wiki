@@ -1,7 +1,7 @@
 ### Conduit Facade
 ![](http://loenwind.info/eio/Conduit_Facade.png)
 
-Facades, once painted in a painting machine look like the block they were painted with, but can have conduits placed within them, allowing you to hide your conduits.
+Facades, once painted in a painting machine, look like the block they were painted with, but can have conduits placed within them, allowing you to hide your conduits.
 
 ### Transparent Conduit Facade
 ![](http://loenwind.info/eio/Transparent_Conduit_Facade.png)
