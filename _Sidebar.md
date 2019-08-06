@@ -20,3 +20,9 @@
 [[Inventory System Storage]]  
 [[Inventory Sensor]]  
 [[Remote Awareness Upgrade]]
+### Endergy
+[[Alloys|Alloys Endergy]]
+[[Grinding Balls|Grinding Balls Endergy]]
+[[Energy Conduits|Energy Conduits Endergy]]
+[[Capacitors|Capacitors Endergy]]
+[[Stellar Tools and Armor|List of Stellar Tools and Armor]]
