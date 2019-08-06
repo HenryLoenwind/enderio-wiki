@@ -14,7 +14,7 @@
 [[Facades|Conduit Facades]]  
 [[Power Monitors]]  
 [[Energy Gauge]]  
-### Inventory Panel
+### Inventory Panel (*Dev Build Only*)
 [[Inventory Panel]]  
 [[Inventory Panel Remotes]]  
 [[Inventory System Storage]]  
