@@ -44,5 +44,17 @@ Liquid XP can be obtained by collecting XP Orbs with an XP Vacuum or by emptying
 
 It can be used to repair items enchanted with Mending in a Fluid Tank or it can be collected into an Experience Obelisk.
 
+## Liquid Sunshine
 
+Liquid Sunshine can be made in [[The Vat]] from Fire Water and can be used as a Catalyst Fluid in the Weather Obelisk to stop Rain or Thunderstorms.
+
+## Cloud Seed
+
+Cloud Seed can be made in [[The Vat]] from Water and can be used as a Catalyst Fluid in the Weather Obelisk to create Rain.
+
+It can also be used in [[The Vat]] to make Concentrated Cloud Seed.
+
+## Concentrated Cloud Seed
+
+Concentrated Cloud Seed can be made in [[The Vat]] from Cloud Seed and can be used as a Catalyst Fluid in the Weather Obelisk to create Thunderstorms.
 
