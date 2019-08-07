@@ -1,4 +1,4 @@
-# The Ender
+# The Ender Mk2
 ![](renders/end_steel_sword.png)
 
 The Ender Mk2 is a sword added by Ender IO.
