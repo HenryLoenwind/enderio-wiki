@@ -8,7 +8,8 @@
 [[Dark Pick]]  
 [[Dark Axe]]  
 [[Dark Shears]]  
-[[Dark Crook]]
+[[Dark Crook]]   
+[[Dark Treetap]]   
 
 # Dark Armor
 
