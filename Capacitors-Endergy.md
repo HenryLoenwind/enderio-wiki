@@ -46,12 +46,12 @@ Can be enchanted with Efficiency, Unbreaking, and Mending.
 
 Global Level:
 
-* No Efficiency: Global Level **3.5**
-* Efficiency 1: Global Level **4.0**
-* Efficiency 2: Global Level **4.5**
-* Efficiency 3: Global Level **5.0**
-* Efficiency 4: Global Level **5.5**
-* Efficiency 5: Global Level **6.0**
+* No Efficiency: Global Level: **3.5**
+* Efficiency 1: Global Level: **4.0**
+* Efficiency 2: Global Level: **4.5**
+* Efficiency 3: Global Level: **5.0**
+* Efficiency 4: Global Level: **5.5**
+* Efficiency 5: Global Level: **6.0**
 
 Total Uses: 512
 
