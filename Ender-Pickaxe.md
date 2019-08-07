@@ -10,8 +10,11 @@ It has a Harvest Level = 5 (equivalent to a Cobalt Pickaxe), but it can be confi
 ## Dark Steel Upgrades:
 
 * Carpeting
+  - Mining Range = Mining Volume + 1, if Depth is *NOT* present(See Explosive)
+  - Mining Range = Mining Volume - 1, if Depth is present(See Explosive)
   - Flattens the explosive force into a carpet.
 * Depth
+  - Mining Depth = Mining Volume + 1 (See Explosive)
   - Directs the explosive force away from the player.
 * Direct 
   - Teleports mined things into your inventory
@@ -33,18 +36,23 @@ It has a Harvest Level = 5 (equivalent to a Cobalt Pickaxe), but it can be confi
     * Damage absorbed by power: 95%
 * Explosive
   - Explosive I:
+    * Mining Volume = 1
     * Adds explosive power to the pickaxe, damaging surrounding blocks while mining.
     * For problems that look like nails.
   - Explosive II:
+    * Mining Volume = 2
     * Adds more explosive power to the pickaxe, damaging surrounding blocks while mining.
     * For problems that look like nails.
   - Explosive III:
+    * Mining Volume = 3
     * Adds even more explosive power to the pickaxe, damaging surrounding blocks while mining.
     * For problems that look like nails.
   - Explosive IV:
+    * Mining Volume = 4
     * Adds ridiculous explosive power to the pickaxe, damaging surrounding blocks while mining.
     * For problems that look like combs.
   - Explosive V:
+    * Mining Volume = 5
     * Adds ludicrous explosive power to the pickaxe, damaging surrounding blocks while mining.
     * https://youtu.be/ygE01sOhzz0
     
