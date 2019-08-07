@@ -5,7 +5,7 @@
 
 The Dark Axe is a crook added by Ender IO.
 
-It can be enchanted with any Crook Enchantments (Modded).
+It can be enchanted with any Crook Enchantments (Vanilla or Modded).
 
 It works exactly like the Ex Nihilo Crook (and is also compatible with it) and when empowered it will do AOE.
 
