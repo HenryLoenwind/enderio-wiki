@@ -1,7 +1,7 @@
 # Stellar Pickaxe
 ![](renders/stellar_alloy_pickaxe.png)
 
-The Stellar Pickaxe is a pickaxe added by Ender IO.
+The Stellar Pickaxe is a pickaxe added by Endergy.
 
 It can be enchanted with any Pickaxe Enchantments (Vanilla or Modded).
 
