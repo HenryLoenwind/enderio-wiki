@@ -1,7 +1,7 @@
 # Stellar Axe
 ![](renders/stellar_alloy_axe.png)
 
-The Stellar Axe is an axe added by Ender IO.
+The Stellar Axe is an axe added by Endergy.
 
 It can be enchanted with any Axe Enchantments (Vanilla or Modded).
 
