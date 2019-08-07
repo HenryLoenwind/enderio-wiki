@@ -7,6 +7,8 @@ It can be enchanted with any Bow Enchantments (Vanilla or Modded).
 
 Its stats are very configurable in enderio.cfg: bow{ dark_bow { } }.
 
+It can be repaired in an Anvil using Nutritious Sticks.
+
 ## Dark Steel Upgrades:
 
 * Empowered
