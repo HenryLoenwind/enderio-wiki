@@ -1,7 +1,24 @@
-![](http://loenwind.info/eio/Basic_Capacitor.png) ![](http://loenwind.info/eio/Double-Layer_Capacitor.png) ![](http://loenwind.info/eio/Octadic_Capacitor.png)
+# Capacitors
 
-Crafting Component / Machine Upgrade
+Capacitors can be used to craft Capacitor Banks, Photovoltaic Cells, Dark Steel Upgrades and various other machines. 
 
-Basic capacitors are used to craft machines that use energy to operate. Double-layer and octadic capacitors act as machine upgrades for machines that have an upgrade slot. They increase energy storage and speed or range of machines.
+Machines that have an upgrade slot require capacitors to function.
 
-Special capacitors with wildly varying properties can be found in loot chests.
+Depending on their Global Level, Capacitors can increase the Speed, Range or Energy Storage of machines.
+
+*Special capacitors with wildly varying properties can be found in loot chests.*
+
+## Basic Capacitor
+![](renders/basic_capacitor_basic.png)
+
+Global Level: **1**
+
+## Double-Layer Capacitor
+![](renders/basic_capacitor_activated.png)
+
+Global Level: **2**
+
+## Octadic Capacitor
+![](renders/basic_capacitor_ender.png)
+
+Global Level: **3**
