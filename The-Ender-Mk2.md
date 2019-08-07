@@ -5,7 +5,7 @@ The Ender Mk2 is a sword added by Ender IO.
 
 It can be enchanted with any Sword Enchantments (Vanilla or Modded).
 
-Skull and Ender Pearl drops increase when killing mobs with the Ender (**doesn't have to be Powered**).
+Skull and Ender Pearl drops increase when killing mobs with the Ender Mk 2(**doesn't have to be Powered**).
 
 When it is Powered, Endermen can't teleport once hit, and it has Extra Damage and Speed:
 
