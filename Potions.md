@@ -39,4 +39,4 @@ There are 2 types of the Potion of Confusion:
 * The Normal Type, which applies Nausea for 45 seconds(Normal and Splash) or 11 seconds(Lingering)
 * The Extended Type, which applies Nausea for 2 minutes(Normal and Splash) or 30 seconds(Lingering)
 
-**There's also an [[arrow|Arrows]] created corresponding to each potion, but with 1/9 the duration.**
+**There's also an [[arrow|Arrows]] corresponding to each potion, but with 1/9 the duration.**
