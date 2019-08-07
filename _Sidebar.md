@@ -4,6 +4,8 @@
 [[Crafting Components|List of Crafting Components]]  
 [[Dark Weapons, Tools, and Armor|Dark Weapons Tools and Armor]]  
 [[Ender Weapons, Tools, and Armor|Ender Weapons Tools and Armor]]  
+[[Dark Steel Upgrades]]  
+[[Enchantments]]
 ### Machines
 [[Simple Machines]]  
 [[Generators|List of Generators]]  
