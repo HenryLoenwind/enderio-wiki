@@ -5,6 +5,11 @@ The Ender Boots are boots added by Ender IO.
 
 They can be enchanted with any Boots Enchantments (Vanilla or Modded).
 
+When they are powered, they have extra Armor and Armor Toughness:
+
+* Not Powered: + 4 Armor and + 3 Armor Toughness
+* Powered: + 5 Armor and + 4 Armor Toughness
+
 ## Dark Steel Upgrades:
 * Apiarist's Shoes (Forestry Integration)
   - Protection against bees
