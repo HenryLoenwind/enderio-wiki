@@ -5,6 +5,11 @@ The Stellar Leggings are leggings added by Endergy.
 
 They can be enchanted with any Leggings Enchantments (Vanilla or Modded).
 
+When they are powered, they have extra Armor and Armor Toughness:
+
+* Not Powered: + 14 Armor and + 7 Armor Toughness
+* Powered: + 15 Armor and + 9 Armor Toughness
+
 ## Dark Steel Upgrades:
 * Apiarist's Pants (Forestry Integration)
   - Protection against bees
