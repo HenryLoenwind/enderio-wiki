@@ -28,14 +28,16 @@ They can be enchanted with any Boots Enchantments (Vanilla or Modded).
   - Increases swimming speed
 * Inventory
   - Inventory I
-      * Adds an inventory to you armor
-      * The size depends on the armor type
-      * Set the hotkey to open it in the game options
+    * Adds an inventory to you armor
+    * The size = 6 slots
+    * Set the hotkey to open it in the game options
   - Inventory II
     * Increases the size of your armor's inventory
+    * The size = 12 slots
     * Set the hotkey to open it in the game options
   - Inventory III
     * Increases the size of your armor's inventory
+    * The size = 18 slots
     * Set the hotkey to open it in the game options
 * Jump
   - Jump I
