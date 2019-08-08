@@ -5,6 +5,11 @@ The Stellar Helmet is a helmet added by Endergy.
 
 It can be enchanted with any Helmet Enchantments (Vanilla or Modded).
 
+When it is powered, it has extra Armor and Armor Toughness:
+
+* Not Powered: + 7 Armor and + 7 Armor Toughness
+* Powered: + 10 Armor and + 9 Armor Toughness
+
 ## Dark Steel Upgrades:
 * Apiarist's Hat (Forestry Integration)
   - Protection against bees
