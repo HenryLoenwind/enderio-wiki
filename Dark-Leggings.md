@@ -5,6 +5,11 @@ The Dark Leggings are leggings added by Ender IO.
 
 They can be enchanted with any Leggings Enchantments (Vanilla or Modded).
 
+When they are powered, they have extra Armor and Armor Toughness:
+
+* Not Powered: + 5 Armor and + 1 Armor Toughness
+* Powered: + 6 Armor and + 2 Armor Toughness
+
 ## Dark Steel Upgrades:
 * Apiarist's Pants (Forestry Integration)
   - Protection against bees
