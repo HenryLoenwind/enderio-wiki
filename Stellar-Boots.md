@@ -5,6 +5,11 @@ The Stellar Boots are boots added by Endergy.
 
 They can be enchanted with any Boots Enchantments (Vanilla or Modded).
 
+When they are powered, they have extra Armor and Armor Toughness:
+
+* Not Powered: + 8 Armor and + 7 Armor Toughness
+* Powered: + 10 Armor and + 9 Armor Toughness
+
 ## Dark Steel Upgrades:
 * Apiarist's Shoes (Forestry Integration)
   - Protection against bees
