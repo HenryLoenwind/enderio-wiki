@@ -5,6 +5,11 @@ The Dark Helm is a helmet added by Ender IO.
 
 It can be enchanted with any Helmet Enchantments (Vanilla or Modded).
 
+When it is powered, it has extra Armor and Armor Toughness:
+
+* Not Powered: + 2 Armor and + 1 Armor Toughness
+* Powered: + 3 Armor and + 2 Armor Toughness
+
 ## Dark Steel Upgrades:
 * Apiarist's Hat (Forestry Integration)
   - Protection against bees
