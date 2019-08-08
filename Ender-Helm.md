@@ -27,13 +27,15 @@ It can be enchanted with any Helmet Enchantments (Vanilla or Modded).
 * Inventory
   - Inventory I
       * Adds an inventory to you armor
-      * The size depends on the armor type
+      * The size = 2 slots
       * Set the hotkey to open it in the game options
   - Inventory II
     * Increases the size of your armor's inventory
+    * The size = 4 slots
     * Set the hotkey to open it in the game options
   - Inventory III
     * Increases the size of your armor's inventory
+    * The size = 6 slots
     * Set the hotkey to open it in the game options
 * Naturalist's Eye (Forestry Integration)
   - Shows pollinated tree leaves
