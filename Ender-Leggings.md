@@ -5,6 +5,11 @@ The Ender Leggings are leggings added by Ender IO.
 
 They can be enchanted with any Leggings Enchantments (Vanilla or Modded).
 
+When they are powered, they have extra Armor and Armor Toughness:
+
+* Not Powered: + 7 Armor and + 3 Armor Toughness
+* Powered: + 8 Armor and + 4 Armor Toughness
+
 ## Dark Steel Upgrades:
 * Apiarist's Pants (Forestry Integration)
   - Protection against bees
