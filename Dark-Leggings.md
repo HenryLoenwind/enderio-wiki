@@ -23,14 +23,16 @@ They can be enchanted with any Leggings Enchantments (Vanilla or Modded).
     * Damage absorbed by power: 85%
 * Inventory
   - Inventory I
-      * Adds an inventory to you armor
-      * The size depends on the armor type
-      * Set the hotkey to open it in the game options
+    * Adds an inventory to you armor
+    * The size = 10 slots
+    * Set the hotkey to open it in the game options
   - Inventory II
     * Increases the size of your armor's inventory
+    * The size = 20 slots
     * Set the hotkey to open it in the game options
   - Inventory III
     * Increases the size of your armor's inventory
+    * The size = 30 slots
     * Set the hotkey to open it in the game options
 * Speed
   - Speed I
