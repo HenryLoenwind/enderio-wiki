@@ -5,6 +5,11 @@ The Ender Helm is a helmet added by Ender IO.
 
 It can be enchanted with any Helmet Enchantments (Vanilla or Modded).
 
+When it is powered, it has extra Armor and Armor Toughness:
+
+* Not Powered: + 4 Armor and + 3 Armor Toughness
+* Powered: + 5 Armor and + 4 Armor Toughness
+
 ## Dark Steel Upgrades:
 * Apiarist's Hat (Forestry Integration)
   - Protection against bees
