@@ -1,4 +1,4 @@
-# Dark Helm
+# Ender Helm
 ![](renders/end_steel_helmet.png)
 
 The Ender Helm is a helmet added by Ender IO.
