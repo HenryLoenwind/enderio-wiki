@@ -320,6 +320,7 @@ Ender IO adds multiple Dark Steel Upgrades that can be applied in an Anvil(for n
 ## Thaumcraft Integration
 
 ### Dark Steel Upgrade "Revealing"
+![](renders/darksteel_upgrade_gogglesOfRevealing.png)
 
 * Crafted with a Blank Upgrade and the (Thaumcraft)Goggles of Revealing
 * Upgrade for Dark Steel Items
@@ -328,6 +329,7 @@ Ender IO adds multiple Dark Steel Upgrades that can be applied in an Anvil(for n
   - Dark, Ender, and Stellar Helmets
 
 ### Dark Steel Upgrade "Thaumaturge's Robe"
+![](renders/darksteel_upgrade_thaumaturge_robes_chest.png	)
 
 * Crafted with a Blank Upgrade and the (Thaumcraft)Thaumaturge's Robe
 * Upgrade for Dark Steel Items
@@ -336,6 +338,7 @@ Ender IO adds multiple Dark Steel Upgrades that can be applied in an Anvil(for n
   - Dark, Ender, and Stellar Chestplates
 
 ### Dark Steel Upgrade "Thaumaturge's Leggings"
+![](renders/darksteel_upgrade_thaumaturge_robes_legs.png)
 
 * Crafted with a Blank Upgrade and the (Thaumcraft)Thaumaturge's Leggings
 * Upgrade for Dark Steel Items
@@ -344,6 +347,7 @@ Ender IO adds multiple Dark Steel Upgrades that can be applied in an Anvil(for n
   - Dark, Ender, and Stellar Leggings
 
 ### Dark Steel Upgrade "Thaumaturge's Boots"
+![](renders/darksteel_upgrade_thaumaturge_robes_feet.png)
 
 * Crafted with a Blank Upgrade and the (Thaumcraft)Thaumaturge's Boots
 * Upgrade for Dark Steel Items
