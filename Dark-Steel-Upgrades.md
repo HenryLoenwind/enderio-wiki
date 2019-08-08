@@ -49,8 +49,9 @@ Ender IO adds multiple Dark Steel Upgrades that can be applied in an Anvil(for n
 * Crafted with a Blank Upgrade and an Elytra
 * Upgrade for Dark Steel Items
   - Makes armor work as elytra
-  - (That means flying as if an Elytra was equipped, NOT "creative" flight!)
+  - *(That means flying as if an Elytra was equipped, NOT "creative" flight!)*
   - Set the hotkey to activate/deactivate it in the game options
+  - ***Incompatible with Glider***
 * Can be applied to:
   - Dark, Ender, and Stellar Chestplates
 
@@ -80,6 +81,7 @@ Ender IO adds multiple Dark Steel Upgrades that can be applied in an Anvil(for n
 * Upgrade for Dark Steel Items
   - Enables Gliding
   - Set the hotkey to activate/deactivate it in the game options
+  - ***Incompatible with Elytra***
 * Can be applied to:
   - Dark, Ender, and Stellar Chestplates
 
