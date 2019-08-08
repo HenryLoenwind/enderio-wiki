@@ -35,14 +35,16 @@ It can be enchanted with any Chestplate Enchantments (Vanilla or Modded).
   - ***Incompatible with Elytra***
 * Inventory
   - Inventory I
-      * Adds an inventory to you armor
-      * The size depends on the armor type
-      * Set the hotkey to open it in the game options
+    * Adds an inventory to you armor
+    * The size = 18 slots
+    * Set the hotkey to open it in the game options
   - Inventory II
     * Increases the size of your armor's inventory
+    * The size = 36 slots
     * Set the hotkey to open it in the game options
   - Inventory III
     * Increases the size of your armor's inventory
+    * The size = 54 slots
     * Set the hotkey to open it in the game options
 * Thaumaturge's Robe   (Thaumcraft Integration)
   - Vis Discount: 3%
