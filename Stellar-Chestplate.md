@@ -5,6 +5,11 @@ The Stellar Chestplate is a chestplate added by Endergy.
 
 It can be enchanted with any Chestplate Enchantments (Vanilla or Modded).
 
+When it is powered, it has extra Armor and Armor Toughness:
+
+* Not Powered: + 18 Armor and + 7 Armor Toughness
+* Powered: + 22 Armor and + 9 Armor Toughness
+
 ## Dark Steel Upgrades:
 * Apiarist's Shirt (Forestry Integration)
   - Protection against bees
