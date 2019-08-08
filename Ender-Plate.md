@@ -5,6 +5,11 @@ The Ender Plate is a chestplate added by Ender IO.
 
 It can be enchanted with any Chestplate Enchantments (Vanilla or Modded).
 
+When it is powered, it has extra Armor and Armor Toughness:
+
+* Not Powered: + 10 Armor and + 3 Armor Toughness
+* Powered: + 12 Armor and + 4 Armor Toughness
+
 ## Dark Steel Upgrades:
 * Apiarist's Shirt (Forestry Integration)
   - Protection against bees
