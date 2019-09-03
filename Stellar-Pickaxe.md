@@ -16,7 +16,7 @@ It has a Harvest Level = 5 (equivalent to a Cobalt Pickaxe), but it can be confi
 * Depth
   - Mining Depth = Mining Volume + 1 (See Explosive)
   - Directs the explosive force away from the player.
-* Direct 
+* Direct
   - Teleports mined things into your inventory
 * Empowered
   - Empowered I
@@ -55,10 +55,19 @@ It has a Harvest Level = 5 (equivalent to a Cobalt Pickaxe), but it can be confi
     * Mining Volume = 5
     * Adds ludicrous explosive power to the pickaxe, damaging surrounding blocks while mining.
     * https://youtu.be/ygE01sOhzz0
-    
+
       ***Henry and tterrag want you to watch the full movie.***
-      
+
       ***"You owe it to yourself" - tterrag***
+* Micro Anvil
+  - Allows editing upgrades of a single item in the field.
+  - Activate with a hotkey or by shift-right-clicking any upgradeable item that doesn't do anything else when doing that.
+* Mini Anvil
+  - Allows editing upgrades of all equiped items in the field.
+  - Activate with a hotkey or by shift-right-clicking any upgradeable item that doesn't do anything else when doing that.
+* Pocket Anvil
+  - Provides full anvil functionality and allows editing upgrades of any items in the field.
+  - Activate with a hotkey or by shift-right-clicking any upgradeable item that doesn't do anything else when doing that.
 * Spoon
   - Who needs a shovel when you have a spoon...
 * Travel

@@ -17,7 +17,7 @@ When it is Powered, Endermen can't teleport once hit, and it has Extra Damage an
 
 ## Dark Steel Upgrades:
 
-* Direct 
+* Direct
   - Teleports mined things into your inventory
 * Empowered
   - Empowered I
@@ -32,5 +32,14 @@ When it is Powered, Endermen can't teleport once hit, and it has Extra Damage an
   - Empowered IV
     * Max Power: 1,000,000 µI
     * Damage absorbed by power: 85%
+* Micro Anvil
+  - Allows editing upgrades of a single item in the field.
+  - Activate with a hotkey or by shift-right-clicking any upgradeable item that doesn't do anything else when doing that.
+* Mini Anvil
+  - Allows editing upgrades of all equiped items in the field.
+  - Activate with a hotkey or by shift-right-clicking any upgradeable item that doesn't do anything else when doing that.
+* Pocket Anvil
+  - Provides full anvil functionality and allows editing upgrades of any items in the field.
+  - Activate with a hotkey or by shift-right-clicking any upgradeable item that doesn't do anything else when doing that.
 * Travel
   - Hold Shift and Right-Click to teleport or activate a travel anchor

@@ -39,6 +39,15 @@ When they are powered, they have extra Armor and Armor Toughness:
     * Increases the size of your armor's inventory
     * The size = 30 slots
     * Set the hotkey to open it in the game options
+* Micro Anvil
+  - Allows editing upgrades of a single item in the field.
+  - Activate with a hotkey or by shift-right-clicking any upgradeable item that doesn't do anything else when doing that.
+* Mini Anvil
+  - Allows editing upgrades of all equiped items in the field.
+  - Activate with a hotkey or by shift-right-clicking any upgradeable item that doesn't do anything else when doing that.
+* Pocket Anvil
+  - Provides full anvil functionality and allows editing upgrades of any items in the field.
+  - Activate with a hotkey or by shift-right-clicking any upgradeable item that doesn't do anything else when doing that.
 * Speed
   - Speed I
     * Increases movement speed

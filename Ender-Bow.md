@@ -27,3 +27,12 @@ It can be repaired in an Anvil using Infinity Rods.
   - Empowered V
     * Max Power: 2,500,000 µI
     * Damage absorbed by power: 95%
+* Micro Anvil
+  - Allows editing upgrades of a single item in the field.
+  - Activate with a hotkey or by shift-right-clicking any upgradeable item that doesn't do anything else when doing that.
+* Mini Anvil
+  - Allows editing upgrades of all equiped items in the field.
+  - Activate with a hotkey or by shift-right-clicking any upgradeable item that doesn't do anything else when doing that.
+* Pocket Anvil
+  - Provides full anvil functionality and allows editing upgrades of any items in the field.
+  - Activate with a hotkey or by shift-right-clicking any upgradeable item that doesn't do anything else when doing that.
