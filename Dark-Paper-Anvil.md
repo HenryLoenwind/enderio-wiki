@@ -12,3 +12,5 @@ It is ***Not Durable***.
 ***It lasts much shorter than the Vanilla Anvil.***
 
 **It can be used to apply and remove upgrades.**
+
+***Working with Dark Steel Upgrades does not consume durability.***

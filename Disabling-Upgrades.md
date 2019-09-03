@@ -73,6 +73,10 @@ To edit this file, do the following:
 
 **This is the better way to do it, since it has less chance of having unintended side effects.**
 
+***The one downside is that upgrade items will still be generated as (and on) dungeon loot. Only disabling the upgrades as shown above (or disabling the dungeon loot completely) will prevent that.***
+
+**To disable the dungeon loot, follow this link: [Disabling Dungeon Loot](https://github.com/SleepyTrousers/EnderIO/tree/master/enderio-base/src/main/resources/assets/enderio/loot_tables/chests)**
+
 To disable a DSU recipe, do the following:
 * Copy the file `config/enderio/recipes/darksteel_upgrades.xml` to `config/enderio/recipes/user`
 * Find the recipe you want to disable
