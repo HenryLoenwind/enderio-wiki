@@ -71,7 +71,9 @@ To edit this file, do the following:
 
 ## 2. By removing the crafting recipe for a Dark Steel Upgrade
 
-**This is the better way to do it, since it has less chance of having unintended side effects.**
+**This method doesn't disable Upgrades completely.**
+
+**This method has less chance of having unintended side effects.**
 
 ***The one downside is that upgrade items will still be generated as (and on) dungeon loot. Only disabling the upgrades as shown above (or disabling the dungeon loot completely) will prevent that.***
 
