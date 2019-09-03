@@ -83,7 +83,7 @@ To disable a DSU recipe, do the following:
 * Copy the file `config/enderio/recipes/darksteel_upgrades.xml` to `config/enderio/recipes/user`
 * Find the recipe you want to disable
 * Add `disabled="true"` inside the `<recipe>` tag
-  - Example: To disable the Elytra Upgrade, the Elytra `<recipe>` should look like this:
+  - Example: To disable the Elytra Upgrade recipe, the Elytra Upgrade `<recipe>` should look like this:
   ```xml
     <recipe required="true" name="Dark Steel Upgrade: Elytra" disabled="true">
       <dependency upgrade="enderio:elytra"/>
