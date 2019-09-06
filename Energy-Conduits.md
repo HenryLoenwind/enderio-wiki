@@ -2,7 +2,7 @@
 
 The Energy Conduits transfer µI between capacitor banks/machines.
 
-## There are 3 types of Fluid Conduits:
+## There are 3 types of Energy Conduits:
 
 ### Energy Conduit
 ![](http://loenwind.info/eio/Energy_Conduit.png)
