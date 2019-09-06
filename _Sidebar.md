@@ -1,12 +1,17 @@
 ### Base  
 [[Energy (µI)]]  
 [[Alloys]]  
-[[Crafting Components|List of Crafting Components]]
+[[Crafting Components|List of Crafting Components]]  
+[[Dark Weapons, Tools, and Armor|Dark Weapons Tools and Armor]]  
+[[Ender Weapons, Tools, and Armor|Ender Weapons Tools and Armor]]  
+[[Dark Steel Upgrades]]  
+[[Enchantments]]
 ### Machines
 [[Simple Machines]]  
 [[Generators|List of Generators]]  
-[[Powered|List of Powered Machines]]  
-[[Unpowered|List of Unpowered Machines]]  
+[[Powered Machines|List of Powered Machines]]  
+[[Unpowered Machines|List of Unpowered Machines]]  
+[[Enhanced Machines|List of Enhanced Machines]]  
 [[Obelisks|List of Obelisks]]  
 ### Conduits
 [[Conduits|List of Conduits]]  
@@ -14,9 +19,15 @@
 [[Facades|Conduit Facades]]  
 [[Power Monitors]]  
 [[Energy Gauge]]  
-### Inventory Panel
+### Inventory Panel (*Dev Build Only*)
 [[Inventory Panel]]  
 [[Inventory Panel Remotes]]  
 [[Inventory System Storage]]  
 [[Inventory Sensor]]  
 [[Remote Awareness Upgrade]]
+### Endergy
+[[Alloys|Alloys Endergy]]  
+[[Grinding Balls|Grinding Balls Endergy]]  
+[[Energy Conduits|Energy Conduits Endergy]]  
+[[Capacitors|Capacitors Endergy]]  
+[[Stellar Tools and Armor|List of Stellar Tools and Armor]]  
