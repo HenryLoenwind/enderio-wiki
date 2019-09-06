@@ -2,8 +2,8 @@
 [[Energy (µI)]]  
 [[Alloys]]  
 [[Crafting Components|List of Crafting Components]]  
-[[Dark Weapons, Tools, and Armor|Dark Weapons Tools and Armor]]  
-[[Ender Weapons, Tools, and Armor|Ender Weapons Tools and Armor]]  
+[[Dark Weapons, Tools, and Armor|List of Dark Weapons Tools and Armor]]  
+[[Ender Weapons, Tools, and Armor|List of Ender Weapons Tools and Armor]]  
 [[Dark Steel Upgrades]]  
 [[Enchantments]]
 ### Machines
@@ -30,4 +30,4 @@
 [[Grinding Balls|Grinding Balls Endergy]]  
 [[Energy Conduits|Energy Conduits Endergy]]  
 [[Capacitors|Capacitors Endergy]]  
-[[Stellar Tools and Armor|List of Stellar Tools and Armor]]  
+[[Stellar Weapons, Tools, and Armor|List of Stellar Weapons Tools and Armor]]  
