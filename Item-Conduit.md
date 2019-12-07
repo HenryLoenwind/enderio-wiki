@@ -15,7 +15,7 @@ Insertion can be configured in these ways:
 
 Channels are used to split a single item conduit network into multiple networks that act independently.
 
-There are 16 different channels. Each of them has a different color, corresponding to the 16 minecraft colors: 
+There are 16 different channels. Each of them has a different color, corresponding to the 16 minecraft colors:
 
 Green, Brown, Blue, Purple, Cyan, Light Gray, Gray, Pink, Lime, Yellow, Light Blue, Magenta, Orange, White, Black
 
@@ -37,7 +37,7 @@ Extraction can be configured in these ways:
 
 Channels are used to split a single item conduit network into multiple networks that act independently.
 
-There are 16 different channels. Each of them has a different color, corresponding to the 16 minecraft colors: 
+There are 16 different channels. Each of them has a different color, corresponding to the 16 minecraft colors:
 
 Green, Brown, Blue, Purple, Cyan, Light Gray, Gray, Pink, Lime, Yellow, Light Blue, Magenta, Orange, White, Black
 

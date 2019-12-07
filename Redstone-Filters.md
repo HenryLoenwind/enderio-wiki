@@ -2,6 +2,8 @@
 
 Redstone Filters are used to change the behavior of [[Redstone Conduits|Redstone Conduit]].
 
+Note: In the tables below, `0` denotes the absence of Redstone Signal (Signal Strength 0), while `1` denotes the presence of Redstone Signal (Signal Strength 1-15).
+
 ## Redstone Filter Base
 ![](renders/material_redstone_filter_base.png)
 
@@ -11,7 +13,7 @@ Redstone Filters are used to change the behavior of [[Redstone Conduits|Redstone
 ## Redstone NOT Filter
 ![](renders/redstone_not_filter.png)
 
-* Used inside the *Output Filter Upgrade slot* of the [[Redstone Conduits|Redstone Conduit]].
+* Used inside the *Output Filter Upgrade* slot of the [[Redstone Conduits|Redstone Conduit]].
 * ***Inverts*** the Input Signal(s).
 * It always Outputs a Signal Strength of 15.
 

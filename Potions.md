@@ -25,7 +25,7 @@ There are 3 types of the Potion of Rising:
 
 * The Normal Type, which applies Levitation for 7 seconds(Normal and Splash) or 1 second(Lingering)
 * The Extended Type, which applies Levitation for 28 seconds(Normal and Splash) or 7 seconds(Lingering)
-* The Enhaced Type, which applies Levitation III for 7 seconds(Normal and Splash) or 1 second(Lingering)
+* The Enhanced Type, which applies Levitation III for 7 seconds(Normal and Splash) or 1 second(Lingering)
 
 ## Potion of Confusion
 ![](renders/potions/Potion%20of%20Confusion.png)

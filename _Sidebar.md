@@ -15,6 +15,8 @@
 [[Obelisks|List of Obelisks]]  
 ### Conduits
 [[Conduits|List of Conduits]]  
+[[Filters]]  
+[[Upgrades]]  
 [[Capacitor Banks]]  
 [[Facades|Conduit Facades]]  
 [[Power Monitors]]  
