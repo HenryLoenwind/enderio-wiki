@@ -14,21 +14,25 @@ Input can be configured in these ways:
 
 Signal Colors are used to split a single redstone conduit network into multiple networks that act independently.
 
-There are 16 different signal colors, corresponding to the 16 minecraft colors: 
+There are 16 different signal colors, corresponding to the 16 minecraft colors:
 
 Green, Brown, Blue, Purple, Cyan, Light Gray, Gray, Pink, Lime, Yellow, Light Blue, Magenta, Orange, White, Black
 
 ### Filter Upgrades (*2*)
 
-There are different Redstone Filters that can be inserted into this single slot.
+There are different [[Redstone Filters]] that can be inserted into this slot, to change the behavior of Redstone Conduits.
 
 ## Output
+
+Redstone Conduits Output a Signal Strength equal to the sum of all Input Signal Strengths on the Channel, capped at 15. This behavior can be changed by [[Redstone Filters]].
+
+Output can be configured in these ways:
 
 ### Signal Color (*3*)
 
 Signal Colors are used to split a single redstone conduit network into multiple networks that act independently.
 
-There are 16 different signal colors, corresponding to the 16 minecraft colors: 
+There are 16 different signal colors, corresponding to the 16 Minecraft colors:
 
 Green, Brown, Blue, Purple, Cyan, Light Gray, Gray, Pink, Lime, Yellow, Light Blue, Magenta, Orange, White, Black
 
@@ -51,4 +55,4 @@ On the right, Strong Signal is On, so the iron block is both powered and activat
 
 ### Filter Upgrades (*5*)
 
-There are different Redstone Filters that can be inserted into this single slot.
+There are different [[Redstone Filters]] that can be inserted into this slot, to change the behavior of Redstone Conduits.

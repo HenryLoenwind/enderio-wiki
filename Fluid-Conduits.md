@@ -19,6 +19,8 @@ It has configurable Redstone Mode.
 
 *Its Flow Rate is dependent on Fluid Viscosity!*
 
+It can be filtered to a specific fluid by right-clicking the conduit with a bucket.
+
 ### Pressurized Fluid Conduit
 ![](http://loenwind.info/eio/Pressurized_Fluid_Conduit.png)
 
@@ -29,6 +31,8 @@ It has a Max Extract Speed of 100 mB/t.
 It has Max IO Speed of 400 mB/t.
 
 It has configurable Redstone Mode.
+
+It can be filtered to a specific fluid by right-clicking the conduit with a bucket.
 
 ### Ender Fluid Conduit
 ![](http://loenwind.info/eio/Ender_Fluid_Conduit.png)
@@ -56,7 +60,7 @@ Insertion can be configured in these ways:
 
 Channels are used to split a single fluid conduit network into multiple networks that act independently.
 
-There are 16 different channels. Each of them has a different color, corresponding to the 16 minecraft colors: 
+There are 16 different channels. Each of them has a different color, corresponding to the 16 minecraft colors:
 
 Green, Brown, Blue, Purple, Cyan, Light Gray, Gray, Pink, Lime, Yellow, Light Blue, Magenta, Orange, White, Black
 
@@ -78,7 +82,7 @@ Extraction can be configured in these ways:
 
 Channels are used to split a single fluid conduit network into multiple networks that act independently.
 
-There are 16 different channels. Each of them has a different color, corresponding to the 16 minecraft colors: 
+There are 16 different channels. Each of them has a different color, corresponding to the 16 minecraft colors:
 
 Green, Brown, Blue, Purple, Cyan, Light Gray, Gray, Pink, Lime, Yellow, Light Blue, Magenta, Orange, White, Black
 
