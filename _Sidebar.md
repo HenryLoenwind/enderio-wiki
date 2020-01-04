@@ -1,5 +1,5 @@
 ### Guides
-[[Dark Steel Upgrades|Guide: Dark Steel Upgrades]]
+[[Dark Steel Upgrades|Guide Dark Steel Upgrades]]
 ### Base  
 [[Energy (µI)]]  
 [[Alloys]]  
