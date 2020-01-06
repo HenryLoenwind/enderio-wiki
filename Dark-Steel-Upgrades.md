@@ -2,7 +2,9 @@
 
 **Ender IO adds multiple Dark Steel Upgrades that can be applied in a [[Dark Steel Anvil]], [[Dark Paper Anvil]] or Dark/Ender/Stellar item with an Anvil Upgrade to Dark, Ender, and Stellar Weapons, Tools, and Armor.**
 
-For a guide to disabling upgrades, you can visit this page: [[Disabling Upgrades]]
+For a Player guide on how to use the Dark Steel Upgrade system, see [[Guide: Dark Steel Upgrades|Guide Dark Steel Upgrades]].
+
+For a Pack Author/Server Admin guide to disabling upgrades, see [[Disabling Upgrades]].
 
 ## Blank Dark Steel Upgrade
 ![](renders/dark_steel_upgrade.png)
