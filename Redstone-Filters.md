@@ -21,10 +21,8 @@ Note: In the tables below, `0` denotes the absence of Redstone Signal (Signal St
 
 | Input Signal | Output Signal |
 | :----------: | :-----------: |
-|      0       |       0       |
 |      0       |       1       |
-|      1       |       1       |
-|      1       |       1       |
+|      1       |       0       |
 
 ## Redstone OR Filter
 ![](renders/redstone_or_filter.png)
